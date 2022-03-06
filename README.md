@@ -8,7 +8,7 @@ Skin care is increasingly more important as climate change erodes the atmosphere
 
 13 patients were studied and their sunlight tolerance in minutes were recorded for the two groups of interest. Our goal is to evaluate whatever evidence we find related to any difference in sunlight tolerance of the groups.
 
-![Distribution by Treatment Group](../visualizations/distribution_by_treatment_group.png)
+![Distribution by Treatment Group](https://github.com/adambushman/sunscreen-effectiveness/blob/main/vizualizations/distribution_by_treatment_group.png)
 
 We'll analyze the dataset graphically, make stastically hypotheses/conclusions, evaluate assumptions, and address the scope of inference. You'll find the analysis file (.R) within the repository and a full written report of the findings at the below blog post.
 
