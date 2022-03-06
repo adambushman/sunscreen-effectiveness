@@ -8,6 +8,8 @@ Skin care is increasingly more important as climate change erodes the atmosphere
 
 13 patients were studied and their sunlight tolerance in minutes were recorded for the two groups of interest. Our goal is to evaluate whatever evidence we find related to any difference in sunlight tolerance of the groups.
 
+![Screenshot](visualizations/distribution_by_treatment_group.png)
+
 We'll analyze the dataset graphically, make stastically hypotheses/conclusions, evaluate assumptions, and address the scope of inference. You'll find the analysis file (.R) within the repository and a full written report of the findings at the below blog post.
 
 ## Dataset Source
@@ -17,5 +19,5 @@ Fusaro, R.M. and Johnson, J.A. (1974). Sunlight Protection for Erythropoietic Pr
 
 Accessed 2/9/2022 via library('Sleuth3')
 
-## Current Site
-[Sunscreen Effectiveness Blog Post](https://www.adam-bushman.com/blog_posts/blog_sunscreen-effectiveness_004.html)
+## Blog Post
+[Sunscreen Effectiveness](https://www.adam-bushman.com/blog_posts/blog_sunscreen-effectiveness_004.html)
